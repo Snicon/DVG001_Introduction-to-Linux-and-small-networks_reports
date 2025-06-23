@@ -1,4 +1,4 @@
-# DVG001 (Spring 25) - [Introduction to Linux and small networks](https://www.hig.se/utbildning/program-och-kurser/kurssida?identifier=DVG001) @ [HiG](https://www.hig.se/engelska/university-of-gavle)
+# DVG001 (Spring 25) - [Introduction to Linux and small networks](https://www.hig.se/engelska/university-of-gavle/study/programmes-and-courses/course-page?identifier=DVG001) @ [HiG](https://www.hig.se/engelska/university-of-gavle)
 In short, this course consits of six labs, one project assignment and lastly an exam. All assignments touches upon networking and linux for absolute beginners. From installing Debain linux to setting up a web server over IPv6 along with firewall rules using UFW.
 
 ## Structure
