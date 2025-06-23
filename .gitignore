@@ -1,0 +1,5 @@
+# Ignore LibreOffice source files
+*.odt
+
+# Ignore .DS_Store files, yes I have used a macbook throughout my linux course
+.DS_Store
